@@ -11,7 +11,7 @@ def countdown(t):
         time.sleep(1)
         t -= 1
       
-    print('Random here ! TX')
+    print('Random here ! Tài - Xỉu')
   
   
 # input time in seconds
