@@ -1,7 +1,5 @@
-# import the time module
 import time
   
-# define the countdown func.
 def countdown(t):
     
     while t:
@@ -12,10 +10,6 @@ def countdown(t):
         t -= 1
       
     print('Random here ! Tài - Xỉu')
-  
-  
-# input time in seconds
 t = input("Enter the time in seconds: ")
-  
-# function call
+
 countdown(int(t))
