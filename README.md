@@ -12,6 +12,7 @@ A simple countdown game.
 """
 Created on Wed Jul 14 10:24:21 2021
 
-@author: HuyRemy
-save this file to D:/py/untilted0.py and execute
+@author: HuyRemy.
+
+Save file untilted0.py to D:/py/untilted0.py and execute
 """
