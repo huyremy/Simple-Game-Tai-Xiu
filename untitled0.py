@@ -15,31 +15,24 @@ def exec_full(filepath):
         "__name__": "__main__",
     }
     with open(filepath, 'rb') as file:
-        exec(compile(file.read(), filepath, 'exec'), global_namespace)
-  
+        exec(compile(file.read(), filepath, 'exec'), global_namespace)  
 # define the countdown func.
-def countdown(t):
-    
+def countdown(t):    
     while t:
         mins, secs = divmod(t, 60)
         timer = '{:02d}:{:02d}'.format(mins, secs)
         print(timer, end=" \r")
         time.sleep(1)
         t -= 1
-
 # input time in seconds
-t = input("Enter the time in seconds: ")
+t = input("Enter the time in seconds. Example 5: ")
 # input guess value 0 - 1 only
-y = input("Enter guess: ")
+y = input("Enter guess value 0 - 1 only: ")
 # function call
 countdown(int(t))
 # Get random int
 number = random.randint(0,1)
 print(number)
-#if number == 0:
-#    print("Tài")
-#else:
-#    print("Xỉu")
 if  number==int(y):
     print("Trúng. Correct.")
     print("Bạn dự đoán là: ", y)
