@@ -34,14 +34,12 @@ countdown(int(t))
 number = random.randint(0,1)
 print(number)
 if  number==int(y):
-    print("Trúng. Correct.")
+    print("Trúng. Correct. Congratulations !")
     print("Bạn dự đoán là: ", y)
     print("Kết quả máy tính là: ",number)
     exec_full(r"D:/py/untitled0.py")
 else:
-    print("Trượt. Wrong")
+    print("Trượt. Wrong. What's a pity !")
     print("Bạn dự đoán là: ",y)
     print("Kết quả máy tính là: ",number)
     exec_full(r"D:/py/untitled0.py")
-
-          
