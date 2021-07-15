@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huyremy
 - 👀 I’m interested in game
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ... well...well...well..let's me see...idea, I have no idea now.
+- 💞️ I’m looking to collaborate on ... well...well...well..let me see...idea, I have no idea now.
 - 📫 huynq@isi.com.vn
 
 <!---
