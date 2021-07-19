@@ -15,5 +15,5 @@ Created on Wed Jul 14 10:24:21 2021
 
 @author: HuyRemy.
 
-Save file untilted0.py to D:/py/untilted0.py and execute
+Save file untilted0.py to D:/py/taixiu.py and execute
 """
