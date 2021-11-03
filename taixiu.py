@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 19 14:21:24 2021
-@author: HuyRemy 
-save this file to D:/py/taixiu.py and execute
-"""
 # import the time module
 import time
 import random
